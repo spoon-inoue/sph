@@ -2,6 +2,9 @@
 流体シミュレーション - 粒子法 - SPH（Smoothed Particle Hydrodynamics）のwebgl実装。  
 グリッドハッシュによる近傍探索の実装はしていない。
 
+https://spoon-inoue.github.io/sph/  
+<img src='https://github.com/user-attachments/assets/19060194-8eb1-4e04-bfd1-158a6e977319' width='700' />  
+
 # Reference
 - [Coding Adventure: Simulating Fluids](https://youtu.be/rSKMYc1CQHE?si=Ul6EgEpIs1xhE5sM)  
   この動画を見て、ソースコードをwebglに置き換えて、ほぼそのまま動いた。
