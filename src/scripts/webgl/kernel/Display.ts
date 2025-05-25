@@ -19,7 +19,6 @@ export class Display {
 
     this.createParticle()
     this.createMouseCircle()
-    // this.scene.add(new THREE.AxesHelper(Particle.BOUNDS_WIDTH * 0.1))
   }
 
   private createParticle() {
